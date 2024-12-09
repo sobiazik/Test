@@ -117,7 +117,7 @@ Q-Q Plot: This plot showed that the residuals did not follow a normal distributi
 Residuals vs. Leverage Plot: Identified potential influential outliers which might impact the model's accuracy.
 
 ### Conclusions
-Despite the improvements with more complex models, the presence of patterns in residual plots suggested potential overfitting. Overfitting occurs when a model is too closely fitted to the limited data, potentially making it inaccurate when predicting new or unseen data. Thus, I decided to adhere to the results of the first order model. Through this process, we concluded that while location-based factors significantly influence property prices, they alone cannot predict the full scope of housing prices in Miami. This realization underscores the complexity of real estate pricing and the need to possibly incorporate more diverse or extensive datasets for future analyses.
+Despite the improvements with more complex models, the presence of patterns in residual plots suggested potential overfitting. Overfitting occurs when a model is too closely fitted to the limited data, potentially making it inaccurate when predicting new or unseen data. Thus, I decided to adhere to the results of the first order model. Through this process, we concluded that while location-based factors significantly influence property prices, they alone cannot predict the full scope of housing prices in Miami. 
 
 
  
